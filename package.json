@@ -1,7 +1,7 @@
 {
   "name": "choo-persist",
   "version": "3.0.2",
-  "description": "Synchronize choo state with indexedDB",
+  "description": "Synchronize choo state with localstorage",
   "main": "index.js",
   "scripts": {
     "deps": "dependency-check . && dependency-check . --extra --no-dev",
